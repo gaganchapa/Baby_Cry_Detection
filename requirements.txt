@@ -1,0 +1,8 @@
+scipy
+pandas
+librosa
+scikit-learn
+matplotlib
+seaborn
+imbalanced-learn
+resampy
