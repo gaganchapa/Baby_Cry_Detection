@@ -29,5 +29,5 @@ pip install scipy pandas librosa numpy scikit-learn matplotlib seaborn imbalance
 
 ## Results
 
-![Alt Text](https://github.com/gaganchapa/Baby_Cry_Detection/blob/main/result.jpg)https://github.com/gaganchapa/Baby_Cry_Detection/blob/main/result.jpg)
+![Alt Text](https://github.com/gaganchapa/Baby_Cry_Detection/blob/main/result.jpg)
 
