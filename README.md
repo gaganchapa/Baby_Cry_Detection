@@ -1,5 +1,5 @@
 
-# Baby Cry Detection
+# Baby Cry Classification
 
 This repository contains the implementation of a Baby Cry Detection system that utilizes Machine Learning algorithms to analyze audio files of infant cries and predict the underlying reason. The system is trained to classify cries into five distinct classes: Belly Pain, Burping, Discomfort, Hungry, and Tired. The model has achieved an impressive accuracy of 95%.
 
