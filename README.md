@@ -1,12 +1,12 @@
 
 # Baby Cry Classification
 
-This repository contains the implementation of a Baby Cry Detection system that utilizes Machine Learning algorithms to analyze audio files of infant cries and predict the underlying reason. The system is trained to classify cries into five distinct classes: Belly Pain, Burping, Discomfort, Hungry, and Tired. The model has achieved an impressive accuracy of 95%.
+This repository contains the implementation of a Baby Cry Classification system that utilizes Machine Learning algorithms to analyze audio files of infant cries and predict the underlying reason. The system is trained to classify cries into five distinct classes: Belly Pain, Burping, Discomfort, Hungry, and Tired. The model has achieved an impressive accuracy of 95%.
 
 
 ## Overview
 
-The Baby Cry Detection system employs advanced techniques such as oversampling to balance the dataset, PCA (Principal Component Analysis) for dimensionality reduction, and MFCC (Mel Frequency Cepstrum Coefficient) for feature extraction. These processes enhance the model's ability to accurately classify cries based on their underlying causes.
+The Baby Cry Classification system employs advanced techniques such as oversampling to balance the dataset, PCA (Principal Component Analysis) for dimensionality reduction, and MFCC (Mel Frequency Cepstrum Coefficient) for feature extraction. These processes enhance the model's ability to accurately classify cries based on their underlying causes.
 
 ## Dependencies
 
@@ -30,5 +30,5 @@ pip install scipy pandas librosa numpy scikit-learn matplotlib seaborn imbalance
 
 ## Results
 
-![Alt Text](https://github.com/gaganchapa/Baby_Cry_Detection/blob/main/result.jpg)
+![Alt Text](https://github.com/gaganchapa/Baby_Cry_Classification/blob/main/result.jpg)
 
